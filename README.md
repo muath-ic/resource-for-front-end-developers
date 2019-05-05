@@ -1,4 +1,4 @@
-# resource-for-front-end-developers
+# Resource for front end developers
 <div>
     <div>
         <p>We've used the following images, icons or other plugins URL, License as listed.</p>
